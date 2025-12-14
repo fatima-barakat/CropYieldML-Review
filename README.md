@@ -16,3 +16,12 @@ This project focuses on reviewing and reproducing machine learning approaches fo
 - Cover all possible machine learning algorithms exhaustively
 
 The goal is to translate scientific literature into reproducible baselines and controlled experiments, highlighting strengths, limitations, and gaps in the current research.
+
+## Reference Paper
+
+This project is based on insights from the following systematic literature review:
+
+Crop yield prediction using machine learning: A systematic literature review
+
+The repository translates key findings from this review into reproducible baselines and controlled experiments. No original claims from the paper are modified or reinterpreted beyond experimental reproduction.
+
