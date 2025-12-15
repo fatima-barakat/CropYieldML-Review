@@ -1,21 +1,26 @@
 # CropYieldML-Review
 
-## Purpose
+## Aim of the Repository
 
-This repository presents a systematic, code-supported review of machine learning approaches for crop yield prediction.
+The aim of this repository is to systematically investigate and replicate the most commonly used deep learning algorithms for crop yield prediction. Specifically, the project focuses on:
 
-The project translates findings from peer-reviewed literature into reproducible baselines and controlled experiments, with an emphasis on model selection, input features, evaluation metrics, and practical limitations in agricultural data.
+1. **Building three representative models**  
+   - Convolutional Neural Networks (CNN)  
+   - Long Short-Term Memory networks (LSTM)  
+   - Deep Neural Networks (DNN)  
 
-## Scope Boundaries
+2. **Evaluating the models on available datasets**  
+   - Identify and use datasets that include the most important features for crop yield prediction, such as temperature, rainfall, and soil type.  
+   - Document dataset sources and feature coverage.
 
-This project focuses on reviewing and reproducing machine learning approaches for crop yield prediction. It **does not**:
+3. **Analyzing input features**  
+   - Assess which features are critical for accurate predictions.  
+   - Explore how feature selection affects model performance.
 
-- Claim to develop state-of-the-art predictive models
-- Provide production-ready agricultural solutions
-- Guarantee accuracy on unseen datasets
-- Cover all possible machine learning algorithms exhaustively
+**Scope and Limitations**  
+- The repository focuses on **replication and reproducibility**, not on developing novel algorithms.  
+- Availability and completeness of datasets are a key challenge, and experiments will be limited to publicly accessible data containing essential features.
 
-The goal is to translate scientific literature into reproducible baselines and controlled experiments, highlighting strengths, limitations, and gaps in the current research.
 
 ## Reference Paper
 
