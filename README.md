@@ -1,5 +1,9 @@
 # CropYieldML-Review
 
+## Overview
+
+This repository explores and evaluates commonly used deep learning models for crop yield prediction, with an emphasis on data preparation, feature engineering, and comparative analysis.
+
 ## Aim of the Repository
 
 The aim of this repository is to systematically investigate and replicate the most commonly used deep learning algorithms for crop yield prediction. Specifically, the project focuses on:
